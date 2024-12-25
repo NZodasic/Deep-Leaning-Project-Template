@@ -56,7 +56,7 @@ Dữ liệu đã tải có thể truy xuất qua phương thức `get_dataset()`
 
 ### ModelTemplate
 
-Lớp ModelTemplate được dùng để định các mô hình TensorFlow, thường sử dụng API của Keras để tạo mô hình tf.keras.Model. Mô hình sau khi tạo phải được lưu trong self.model.
+Lớp ModelTemplate được dùng để định các mô hình TensorFlow, thường sử dụng API của Keras để tạo mô hình `tf.keras.Model`. Mô hình sau khi tạo phải được lưu trong `self.model`.
 
 ### TrainerTemplate
 
